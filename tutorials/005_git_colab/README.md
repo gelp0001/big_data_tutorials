@@ -32,16 +32,13 @@ This section may be useful in a small team with multiple collaborators.
 
 1. Clone a repository to your local machine
 
-2. > git pull origin master
-    Will pull will merge the master branch from the remote server (origin) into our master branch
+2. `git pull origin master` Will pull will merge the master branch from the remote server (origin) into our master branch
     
-3. > git checkout -b my-branch-name
-    Will create a new branch.  This is done so that the master is preserved.
+3. `git checkout -b my-branch-name` Will create a new branch.  This is done so that the master is preserved.
     
 4. Make the required edits to code on you new branch
 
-5. > git push origin my-branch-name
-    Will push the banch up to the remote repository
+5. `git push origin my-branch-name` Will push the banch up to the remote repository
     NOTE: We should NOT merge to master on your local repo and push to remote - this is BAD because it overwrites the master branch!
     
 6. In the repo click the "Compare and pull request" button
