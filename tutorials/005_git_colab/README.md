@@ -47,5 +47,4 @@ This section may be useful in a small team with multiple collaborators.
 7. Click the "Create pull request button"
     This says "I want to merge this branch into the master brance of this repository".
     
-8. TBC..........
-
+8. TBC...........
